@@ -1,0 +1,143 @@
+body{
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 10%;
+}
+ul{
+    list-style-type: none;
+    margin-left:50px;
+    padding:30px;
+    text-align:center; 
+}
+.icon{
+    float:none;
+    font-size:20px;
+    display:inline;
+    margin-inline: 25px;
+    border:none;
+    background-color:violet; 
+    border-radius:0.85rem;
+    width: 160px;
+    padding: 7px 5px;
+}
+.icon a:hover{
+    background-color: rgb(246, 163, 246);
+    border:none;
+    border-radius:0.80rem;
+    padding: 7px 5px;
+
+} 
+.topleft{
+    margin-top: 25px;
+    margin-left:20px;
+    font-size: 6vmin;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+} 
+/*p{
+    text-align:center;
+    justify-content:center;
+    margin-left:30px;
+    margin-right:30px;
+    text-align:center;
+    justify-content:center;
+    font-size: larger;
+}*/
+.use{
+    font-size:30px;
+    display:inline;
+    margin-left: 925px;
+    margin-top: 75%;
+    text-decoration: none;
+    background-color: rgba(5, 215, 226, 0.578);
+    width: 160px;
+    padding: 7px 5px;
+    border-radius:0.85rem;
+}
+.vocalverse{
+    text-align:center;
+    justify-content:center;
+    margin-left:30px;
+    margin-right:30px;
+    text-align:center;
+    font-size:50px;
+    color: rgb(0, 180, 189);
+}
+.info{
+    margin-left: 38%;
+    font-size: larger;
+}
+.credits{
+    margin-left: 38%;
+    font-size: 40px;
+    color: rgb(0, 180, 189);
+}
+.container{
+    display: flex;
+    margin-left: 45%;
+    padding-right: 10%;
+}
+.image1,.image2,.image3,.image4{
+    
+    margin-left: 20% ;
+}
+.vocalverse2{
+    margin-left: 14%;
+    text-align:center;
+  
+    text-align:center;
+    font-size:55px;
+    color: rgb(0, 180, 189);
+}
+.text{
+    border: 0.5ch solid black;
+    height: 350px;
+    width: 1100px;
+    border-radius: 7cap;
+    text-align:center;
+    margin-left: 15%;
+    box-shadow: 15px 15px 3px rgb(0, 0, 0);
+    font-size: larger;
+}
+textarea{
+    width: 942px;
+    height: 344px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: larger;
+}
+.play{
+    text-align: right;
+   /* border:solid rgb(233, 17, 17);*/
+    width: 500px;
+    
+}
+#play-pause,#volume-high,#download,#mic-on{
+    padding-right:100px;
+    cursor: pointer;
+    padding-top: -5cap;
+}
+
+#text-audio{
+    width: 220px;
+    height: 70px;
+    background-color: rgba(0, 180, 189, 0.673);
+    border:solid rgb(2, 61, 91);
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: 3px 5px 5px rgb(2, 61, 91);
+    padding: 20px;
+    cursor: pointer;
+    border-radius: 7px;
+    margin-left: 25%;
+}
+
+.mic{
+    text-align: center;
+    height: 0px;
+    /*border: solid red;*/
+}
+
+
+

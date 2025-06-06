@@ -37,10 +37,7 @@ cd VocalVerse <br>
 Launch the Application:<br>
 Open VocalVerse.html in your preferred web browser to start using the application.<br>
 
-## 📄 License<br>
-Specify the license under which the project is distributed. For example:
 
-This project is licensed under the MIT License.
 
 ## 🤝 Contributing<br>
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
@@ -48,4 +45,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## 📬 Contact
 For inquiries or feedback, please reach out to Divyita.
 
-Note: Ensure that all links and resources referenced in the README are accessible and up-to-date. Additionally, consider adding a live demo link if the application is hosted online.
+
